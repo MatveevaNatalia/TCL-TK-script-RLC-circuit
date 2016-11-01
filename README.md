@@ -5,3 +5,5 @@ given the values of resistance (R), inductance (L) and capacitance (C). The user
 the Graphical User Interface to set the values of these parameters and obtain an I(t) plot, 
 scaled to a characteristic timescale of the circuit. This way one can explore different regimes
 of behavior of the circuit. 
+
+![Screeshot](screenshot.png)
